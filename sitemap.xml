@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
-<loc>https://aram9955.github.io/hy</loc>
-<xhtml:link rel="alternate" hreflang="hy" href="https://aram9955.github.io/hy" />
-<xhtml:link rel="alternate" hreflang="ru" href="https://aram9955.github.io/ru" />
-<xhtml:link rel="alternate" hreflang="en" href="https://aram9955.github.io/en" />
+<loc>https://manuflex.am/hy</loc>
+<xhtml:link rel="alternate" hreflang="hy" href="https://manuflex.am/hy" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://manuflex.am/ru" />
+<xhtml:link rel="alternate" hreflang="en" href="https://manuflex.am/en" />
 <changefreq>monthly</changefreq>
 <priority>1</priority>
 </url>
 <url>
-<loc>https://aram9955.github.io/ru</loc>
-<xhtml:link rel="alternate" hreflang="hy" href="https://aram9955.github.io/hy" />
-<xhtml:link rel="alternate" hreflang="ru" href="https://aram9955.github.io/ru" />
-<xhtml:link rel="alternate" hreflang="en" href="https://aram9955.github.io/en" />
+<loc>https://manuflex.am/ru</loc>
+<xhtml:link rel="alternate" hreflang="hy" href="https://manuflex.am/hy" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://manuflex.am/ru" />
+<xhtml:link rel="alternate" hreflang="en" href="https://manuflex.am/en" />
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
 <url>
-<loc>https://aram9955.github.io/en</loc>
-<xhtml:link rel="alternate" hreflang="hy" href="https://aram9955.github.io/hy" />
-<xhtml:link rel="alternate" hreflang="ru" href="https://aram9955.github.io/ru" />
-<xhtml:link rel="alternate" hreflang="en" href="https://aram9955.github.io/en" />
+<loc>https://manuflex.am/en</loc>
+<xhtml:link rel="alternate" hreflang="hy" href="https://manuflex.am/hy" />
+<xhtml:link rel="alternate" hreflang="ru" href="https://manuflex.am/ru" />
+<xhtml:link rel="alternate" hreflang="en" href="https://manuflex.am/en" />
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
